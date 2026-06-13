@@ -1,0 +1,245 @@
+[
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2016-10-03",
+    "title": "Endesa : The port of Porto achieves savings of 70% in its lighting power consumption thanks to Endesa",
+    "content": "On 2016-10-03, Endesa's 5-year LED lighting retrofit at Portugal's Port of Leixões reduced annual lighting electricity consumption from 800 MWh to under 250 MWh, a 70% saving. Endesa also secured a 12-month, €3 million contract to supply power to the entire port, which handles 25% of Portuguese trade.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-03-09",
+    "title": "ACCIONA : is awarded the supply of renewable electricity to Repsol Polímeros in its biggest contract to date in Portugal",
+    "content": "On 2017-03-09, ACCIONA signed a major contract to supply 165 GWh of renewable electricity in 2017 to Repsol's petrochemical complex in Sines, Portugal. This deal, within the Iberian Electricity Market (MIBEL), shifts a significant industrial consumer's demand to certified renewable sources, avoiding an estimated 158,000 metric tons of CO2 emissions.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-03-10",
+    "title": "ACCIONA, S.A.",
+    "content": "On 2017-03-10, Acciona Energía is divesting $1 billion in U.S. and Mexican wind/solar assets, reducing its generation portfolio in those regions. Concurrently, it has achieved financial close for new wind farm construction in South Africa. The company also revised its 2025 outlook downward due to lower power generation.",
+    "news_intensity": "strong"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-05-05",
+    "title": "Wind provides 4/5 of electricity needs",
+    "content": "On 2017-05-05, Wind generation in Portugal reached 79% of national electricity consumption on Sunday, a record high in Europe, significantly reducing reliance on conventional power sources. High wind penetration was also notable in Ireland (51%) and Denmark (48%), directly displacing other forms of generation.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-06-04",
+    "title": "Is blockchain about to disrupt the electricity sector?",
+    "content": "On 2017-06-04, EU proposals aim to modernize the electricity sector for a future dominated by intermittent renewable power and decentralized generation, which will structurally alter grid operation and consumption patterns. Digital technologies are expected to further disrupt the sector.",
+    "news_intensity": "weak"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-06-09",
+    "title": "PSP police rescue dog locked in electricity box",
+    "content": "On 2017-06-09, A dog was found locked inside an EDP electricity distribution box in Santarém after its lock was tampered with. This incident highlights a potential security vulnerability in local electrical infrastructure, which could pose risks of unauthorized access and possible service disruption.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-07-12",
+    "title": "Man sentenced for drug and electricity offences",
+    "content": "On 2017-07-12, Gary Thompson pleaded guilty to dishonestly using electricity at an address in Ballyclare between May 1 and December 8, 2016, resulting in a criminal charge.",
+    "news_intensity": "strong"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-11-17",
+    "title": "New website compares gas and electricity prices",
+    "content": "On 2017-11-17, A new Portuguese government-backed website (poupaenergia.pt) provides an energy price comparison tool for consumers. By increasing price transparency and encouraging an estimated 100,000+ annual supplier switches, it may influence electricity demand patterns and increase market competition. The site also promotes energy efficiency.",
+    "news_intensity": "weak"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-12-08",
+    "title": "Construction of electricity cable to Morocco envisaged starting early 2018",
+    "content": "On 2017-12-08, Portugal and Morocco plan to construct a 200km electricity interconnector by mid-next year, enabling bidirectional trade. This will increase Portugal's electricity exports and allow imports, facilitating renewable energy electricity and affecting regional consumption patterns. A prior political agreement supports cross-border renewable electricity trade.",
+    "news_intensity": "strong"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-12-09",
+    "title": "Construction of electricity cable to Morocco envisaged starting early 2018",
+    "content": "On 2017-12-09, Portugal and Morocco plan a 200km electricity interconnector for construction in early 2025, enabling bidirectional power trade. This follows a 2016 EU-Morocco electricity trade agreement, allowing Portugal to increase exports and import electricity as needed, affecting regional consumption patterns and market dynamics.",
+    "news_intensity": "weak"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2018-02-02",
+    "title": "Moroccan-Portuguese Undersea Electricity Link to Cost €700 mln",
+    "content": "On 2018-02-02, A proposed €700 million undersea power interconnector between Morocco and Portugal (1000 MW capacity, operational by 2020) aims to balance Portugal's electricity surplus, particularly in renewables, with Morocco's growing electricity demand, enhancing regional energy trade and independence.",
+    "news_intensity": "weak"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2018-02-05",
+    "title": "The EU Got less Electricity from Coal than Renewables in 2017",
+    "content": "On 2018-02-05, In 2017, EU electricity from wind, solar, and biomass (20.9%) surpassed coal (20.6%) for the first time. However, power sector emissions were unchanged due to a 0.7% demand increase and a 16% drop in hydro output from drought. Multiple member states have announced coal phaseout policies.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2018-04-07",
+    "title": "Portugal’s renewables exceeded electricity demand in March",
+    "content": "On 2018-04-07, In March 2018, mainland Portugal's renewable electricity generation exceeded consumption by 103.6%, primarily from hydro and wind. This high renewable share reduced the wholesale electricity price to €39.75/MWh and saved €21 million in CO2 emission allowances.",
+    "news_intensity": "strong"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2018-05-15",
+    "title": "This story is unavailable",
+    "content": "On 2018-05-15, I cannot create a summary as the provided text does not contain any substantive news. It is a placeholder prompt from a website interface. Please provide the actual news article text for me to summarize.",
+    "news_intensity": "strong"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2018-05-28",
+    "title": "GridWatch will power the smart networks of the future",
+    "content": "On 2018-05-28, GridWatch deploys smart grid sensors to help utilities manage electricity networks stressed by increasing renewable energy integration and growing consumer demand from electric vehicle charging. The company is conducting pilot trials and participating in a global utility accelerator program to scale its monitoring technology.",
+    "news_intensity": "weak"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2018-06-28",
+    "title": "ACCIONA : will supply renewable electricity to a Vidrala plant in Portugal",
+    "content": "On 2018-06-28, ACCIONA secured a major 18-month contract to supply 100% renewable electricity to a Vidrala glass plant in Portugal from July 2018. This agreement for an industrial consumer highlights the growing market for corporate renewable power procurement.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2018-07-28",
+    "title": "New electricity line to link France and Spain",
+    "content": "On 2018-07-28, France, Spain, and Portugal agreed to boost electricity interconnections, with a €578 million EU subsidy for a Biscay power line. The goal is to reach 10% Iberian-European grid interconnection by 2020 and 15% by 2030, aimed at enhancing energy security and supporting the climate transition by better integrating markets.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2018-09-26",
+    "title": "Acciona has been awarded the contract to supply electricity to the Bosch Group in Spain and Portugal",
+    "content": "On 2018-09-26, ACCIONA will supply over 480 GWh of 100% renewable electricity to the Bosch Group in Spain and Portugal from 2019 to 2021, supporting corporate renewable procurement. The company aims to reach 6 TWh of contracted supply for major Iberian clients this year.",
+    "news_intensity": "strong"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2018-11-22",
+    "title": "The Irishman bringing solar electricity to rural Mozambique",
+    "content": "On 2018-11-22, Epsilon Energia Solar sells small solar systems via hire purchase to off-grid households in rural Mozambique, using mobile money for payments. This expands access to electricity for the estimated four million households without grid power, contributing to a decentralized, distributed electricity grid.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2018-12-19",
+    "title": "Portugal: Electricity bills to drop by around €1.50 in 2019",
+    "content": "On 2018-12-19, Portugal's electricity bills will decrease in 2023 due to a 17% reduction in the network access tariff, impacting approximately 6 million contracts. A further VAT reduction from 23% to 6% is available for consumers opting for low-power installations below 3.45 kVA.",
+    "news_intensity": "weak"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2018-12-20",
+    "title": "Morocco, France, Germany, Portugal, and Spain agree to foster corporate trade of renewable electricity between each other",
+    "content": "On 2018-12-20, Five EU countries and Morocco signed a declaration to facilitate cross-border corporate power purchase agreements (PPAs) for renewable electricity. This aims to increase trade, potentially lowering costs for large industrial consumers by accessing cheaper solar and wind resources, pending regulatory and infrastructure development.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2019-02-01",
+    "title": "Portugal looks to double renewable electricity production",
+    "content": "On 2019-02-01, Portugal aims for renewables to supply 80% of electricity consumption by 2030, doubling capacity with a €21.9 billion investment focused on solar and wind. A recent daily record saw windpower meet 61% of national demand. Despite high renewable penetration, the country has among the EU's highest electricity prices.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2019-04-26",
+    "title": "Brussels gives green light to reduced VAT for gas and electricity",
+    "content": "On 2019-04-26, Portugal has EU approval to reduce VAT from 23% to 6% on the fixed portion of electricity bills for low-consumption users, per its 2019 budget. This policy, reversing a 2011 hike, is intended to lower household energy costs, though savings are estimated under €2 monthly.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-05-04",
+    "title": "Wind provides 4/5 of electricity needs",
+    "content": "On 2017-05-04, Portugian wind power generated 85 GWh on Sunday, meeting 79% of national electricity demand and setting a European record. High wind generation in several European nations reduced reliance on conventional power sources.",
+    "news_intensity": "moderate"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-07-12",
+    "title": "Man sentenced for drug and electricity offences",
+    "content": "On 2017-07-12, A man was convicted for dishonestly using electricity at a Ballyclare address between May 1 and December 8, 2016. He received a three-month jail sentence, to be served concurrently with an existing prison term, for this offence. This represents a case of illegal electricity consumption.",
+    "news_intensity": "strong"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2017-12-14",
+    "title": "France, Portugal and Spain to attend mini energy summit",
+    "content": "On 2017-12-14, Portugal will host an energy interconnector summit aiming to end the Iberian peninsula's market isolation. This policy-driven effort targets enhanced grid integration, which could significantly alter regional electricity flow, supply security, and market dynamics.",
+    "news_intensity": "weak"
+  },
+  {
+    "domain": "electricity",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2019-01-23",
+    "title": "European electricity market prices will remain high in the first fortnight of February",
+    "content": "On 2019-01-23, European electricity prices remain high due to cold electricity driving demand, despite falling gas and coal futures which may lower costs in coming weeks. CO2 emission rights prices are stable around €22/t, directly impacting power market prices.",
+    "news_intensity": "moderate"
+  }
+]

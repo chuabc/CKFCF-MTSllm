@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "weather",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2020-06-04",
+    "title": "Bei Regen Kontrolle verloren: Jenaerin bei Unfall auf A4 bei Weimar schwer verletzt",
+    "content": "On 2020-06-04, Rain caused hazardous wet road conditions on the A4 near Weimar, leading to a vehicle losing control and colliding with a guardrail. The accident resulted in a serious injury and required a road cleanup due to fluid leakage.",
+    "news_intensity": "strong"
+  },
+  {
+    "domain": "weather",
+    "location": "Jena_Germany",
+    "knowledge_type": "news",
+    "time": "2020-08-18",
+    "title": "Njemački poljoprivrednici traže državnu pomoć zbog klimatskih promjena",
+    "content": "On 2020-08-18, German farmers seek €400-500 million annually in government funds for a voluntary insurance program against extreme weather, citing climate change impacts. Cereal yields in 2020 fell 5% below the 2015-2019 average, with extreme weather for the third consecutive year threatening farm viability.",
+    "news_intensity": "moderate"
+  }
+]
